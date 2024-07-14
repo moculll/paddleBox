@@ -1,0 +1,6 @@
+{
+    "qtConfigure.qtKitDir": "G:/SoftWares/qt512/5.12.0/msvc2017_64",
+    "cmake.configureArgs": [
+        "-DCMAKE_BUILD_TYPE=Release"
+    ]
+}
